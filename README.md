@@ -8,9 +8,9 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natalia-kozitcyna)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-4a90b8?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natalia-kozitcyna)
 &nbsp;
-[![Email](https://img.shields.io/badge/Email-000000?style=flat-square&logo=gmail&logoColor=white)](mailto:n.kozitcyna@gmail.com)
+[![Email](https://img.shields.io/badge/Email-c0392b?style=flat-square&logo=gmail&logoColor=white)](mailto:n.kozitcyna@gmail.com)
 
 </div>
 
@@ -56,16 +56,6 @@ I design and operate test automation at scale across web, mobile (iOS/Android), 
 <div align="center">
 
 <br/>
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=natyko&show_icons=true&theme=graywhite&hide_border=true&title_color=000000&text_color=555555&icon_color=000000&bg_color=ffffff)
-
-<br/>
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=natyko&theme=default&hide_border=true&ring=000000&fire=000000&currStreakLabel=000000&dates=999999)
-
-<br/>
-
----
 
 *Miami, FL*
 
