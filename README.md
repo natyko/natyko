@@ -2,7 +2,7 @@
 
 ### SDET | QA Automation Engineer | Release & Test Automation Lead
 
-QA Automation Engineer with 6+ years of experience building scalable automation frameworks, leading release quality processes, and owning end-to-end testing for mobile, web, and API platforms. Specialized in TypeScript, Python, UI/API automation, CI/CD pipelines, and modern AI-assisted QA workflows. :contentReference[oaicite:0]{index=0}
+QA Automation Engineer with 6+ years of experience building scalable automation frameworks, leading release quality processes, and owning end-to-end testing for mobile, web, and API platforms. Specialized in TypeScript, Python, UI/API automation, CI/CD pipelines, and modern AI-assisted QA workflows.
 
 
 ---
