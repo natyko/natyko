@@ -1,97 +1,72 @@
-# Hi, I'm Natalia 👋
+<div align="center">
 
-### SDET | QA Automation Engineer | Release & Test Automation Lead
+<br/>
 
-QA Automation Engineer with 6+ years of experience building scalable automation frameworks, leading release quality processes, and owning end-to-end testing for mobile, web, and API platforms. Specialized in TypeScript, Python, UI/API automation, CI/CD pipelines, and modern AI-assisted QA workflows.
+# @natyko
 
----
+**SDET | QA Automation Engineer**
 
-# 🛠 Tech Stack
+<br/>
 
-### Languages
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natalia-kozitcyna)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-000000?style=flat-square&logo=gmail&logoColor=white)](mailto:n.kozitcyna@gmail.com)
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)a
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
----
-
-### Test Automation
-
-![Python](https://img.shields.io/badge/Python-2b3137?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-2b3137?style=flat-square&logo=typescript&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2b3137?style=flat-square&logo=playwright&logoColor=white)
-![Pytest](https://img.shields.io/badge/Pytest-2b3137?style=flat-square&logo=pytest&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2b3137?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-2b3137?style=flat-square&logo=amazonaws&logoColor=white)
+</div>
 
 ---
 
-### CI/CD & DevOps
+<br/>
 
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![TeamCity](https://img.shields.io/badge/TeamCity-000000?style=for-the-badge&logo=teamcity&logoColor=white)
+## What I do
 
----
+I design and operate test automation at scale across web, mobile (iOS/Android), and API platforms — including framework architecture, CI/CD pipelines, and release readiness.
 
-### Tools & Platforms
+<br/>
 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
-![Auth0](https://img.shields.io/badge/Auth0-EB5424?style=for-the-badge&logo=auth0&logoColor=white)
+## Core Stack
 
----
+    Test Automation       TypeScript · Python · Playwright · Serenity/JS · Pytest · Appium · WebdriverIO
+    CI/CD & DevOps        Jenkins · GitHub Actions · Docker · TeamCity
+    Platforms             Mobile iOS/Android · Web · REST API
+    AI Tooling            Claude · Cursor · AI-assisted test generation and framework maintenance
+    Infrastructure        AWS · BrowserStack · Postman · Auth0 · Salesforce · Stripe
 
-## 💼 Professional Highlights
+<br/>
 
-- Built and maintain **750 automated regression tests** across mobile, web, and API platforms
-- Designed a **unified TypeScript automation framework** using Serenity/JS + Page Object Model
-- Reduced release cycles from **multi-day regression to same-day releases**
-- Built scalable CI/CD execution pipelines
-- Extensive experience validating healthcare workflows and third-party integrations
+## How I work
 
----
+- **Framework design over feature work.** I build automation other engineers can contribute to — clean abstractions, predictable patterns, low onboarding cost.
+- **CI as a product.** Pipeline reliability is a deliverable. Flake budgets, retry policies, and triage SLAs are part of the design, not afterthoughts.
+- **Strategy before code.** I shape test approach for new features alongside engineering and product before the first line of automation is written.
+- **AI reviewed as code.** Generated automation passes the same review bar as human-authored tests.
 
-## 🚀 Featured Projects
+<br/>
 
-| Project | Description | Stack |
-|---|---|---|
-| API Automation Framework | REST API automation with reporting and CI integration | Python, Pytest, Requests, Allure |
-| Mobile E2E Automation | Cross-platform mobile automation for telehealth apps | TypeScript, Appium, WebdriverIO |
-| Unified QA Framework | Serenity/JS, POM, Jenkins |
-| Release Validation System | Regression orchestration and release approval process | GitHub Actions, Jenkins, Docker |
+## How I think about quality
+
+- Boring frameworks beat clever ones.
+- CI is the source of truth — a green run on a laptop is worth nothing.
+- Stable pipelines and actionable failures matter more than vanity metrics.
+
+<br/>
 
 ---
 
-## 📊 GitHub Stats
+<div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=natyko&show_icons=true&theme=tokyonight)
+<br/>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=natyko&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=natyko&show_icons=true&theme=graywhite&hide_border=true&title_color=000000&text_color=555555&icon_color=000000&bg_color=ffffff)
 
----
+<br/>
 
-## 📚 Currently Learning
+![GitHub Streak](https://streak-stats.demolab.com/?user=natyko&theme=default&hide_border=true&ring=000000&fire=000000&currStreakLabel=000000&dates=999999)
 
-- Advanced Playwright architecture
-- AI-assisted test generation workflows
-- Scalable automation design patterns
-- Cloud-native testing strategies
+<br/>
 
 ---
 
-## 📫 Connect With Me
+*Miami, FL*
 
-- 💼 LinkedIn: www.linkedin.com/in/natalia-kozitcyna
-- 📧 Email: n.kozitcyna@gmail.com
-- 🌐 GitHub: https://github.com/natyko
-
----
-
-⭐ Always improving automation quality, release confidence, and engineering efficiency.
+</div>
