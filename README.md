@@ -20,7 +20,7 @@
 
 ## What I do
 
-I design and operate test automation at scale across web, mobile (iOS/Android), and API platforms — including framework architecture, CI/CD pipelines, and release readiness.
+I design and operate test automation at scale across web, mobile (iOS/Android), and API platforms - including framework architecture, CI/CD pipelines, and release readiness.
 
 <br/>
 
@@ -36,7 +36,7 @@ I design and operate test automation at scale across web, mobile (iOS/Android), 
 
 ## How I work
 
-- **Framework design over feature work.** I build automation other engineers can contribute to — clean abstractions, predictable patterns, low onboarding cost.
+- **Framework design over feature work.** I build automation other engineers can contribute to - clean abstractions, predictable patterns, low onboarding cost.
 - **CI as a product.** Pipeline reliability is a deliverable. Flake budgets, retry policies, and triage SLAs are part of the design, not afterthoughts.
 - **Strategy before code.** I shape test approach for new features alongside engineering and product before the first line of automation is written.
 - **AI reviewed as code.** Generated automation passes the same review bar as human-authored tests.
@@ -46,7 +46,7 @@ I design and operate test automation at scale across web, mobile (iOS/Android), 
 ## How I think about quality
 
 - Boring frameworks beat clever ones.
-- CI is the source of truth — a green run on a laptop is worth nothing.
+- CI is the source of truth - a green run on a laptop is worth nothing.
 - Stable pipelines and actionable failures matter more than vanity metrics.
 
 <br/>
